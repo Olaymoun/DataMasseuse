@@ -1,7 +1,7 @@
 import pandas as pd
 pd.set_option('precision', 5)
 
-df= pd.read_csv('/Users/Robo2/Downloads/DataCamp - Omar/Gyro2.csv', chunksize=6)
+df= pd.read_csv('/Users/unknown1/Desktop/Gyro3.csv', chunksize=6)
 
 final_df = pd.DataFrame()
 
